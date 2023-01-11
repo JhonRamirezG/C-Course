@@ -11,3 +11,5 @@ add_executable(C_2
         strings/work_strings.cpp)
 add_executable(C_3
         user_input/main.cpp)
+add_executable(C_4
+        calculator/main.cpp)
