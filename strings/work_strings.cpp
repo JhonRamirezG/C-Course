@@ -14,4 +14,5 @@ int main(){
     cout << phrase.find("best") << endl;
     cout << phrase.substr(12, 2);
     return 0;
+
 }
