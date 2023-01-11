@@ -7,3 +7,5 @@ add_executable(C__
         first_Program/main.cpp)
 add_executable(C_1
         statements_functions/statements.cpp)
+add_executable(C_2
+        strings/work_strings.cpp)
